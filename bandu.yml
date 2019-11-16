@@ -1,0 +1,9 @@
+name: bandu
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - keras
+  - matplotlib
+prefix: /home/dennis/anaconda3/envs/bandu
+
