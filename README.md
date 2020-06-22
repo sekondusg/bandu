@@ -3,6 +3,11 @@ bandu
 
 Demo student risk prediction
 
+Quickstart -- Run the following commands
+conda env create -f environment.yml
+conda activate bandu
+jupyter-lab
+
 Project Organization
 ------------
 
